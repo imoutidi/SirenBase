@@ -1,0 +1,12 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+SET(PROJECTNAME DB_Imp)
+
+PROJECT(${PROJECTNAME})
+
+SET(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH})
+SET(CMAKE_EXE_LINKER_FLAGS "${CMAKE_EXE_LINKER_FLAGS}")
+
+MESSAGE( STATUS "CMAKE_CXX_COMPILER: " ${CMAKE_CXX_COMPILER} )
+
+ADD_EXECUTABLE(main main.cpp STORM_BufferManager.cpp STORM_FileHandle.cpp STORM_Frame.cpp STORM_PageHandle.cpp STORM_StorageManager.cpp REM_RecordFileHandle.cpp REM_RecordFileManager.cpp REM_RecordFileScan.cpp REM_RecordHandle.cpp REM_RecordID.cpp retcodes.cpp UTILS_misc.cpp SYSM_DatabaseManager.cpp SSQLM_DDL_Manager.cpp SSQLM_DML_Manager.cpp)
+

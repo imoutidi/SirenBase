@@ -1,0 +1,236 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/koloumpras/Development/Database Implementation/Final/REM.h
+REM_RecordFileManager.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordFileManager.h
+REM_RecordID.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordID.h
+REM_RecordFileHandle.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordFileHandle.h
+REM_RecordFileScan.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordFileScan.h
+REM_RecordHandle.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordHandle.h
+
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordFileHandle.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+STORM.h
+/home/koloumpras/Development/Database Implementation/Final/STORM.h
+REM_Structs.h
+/home/koloumpras/Development/Database Implementation/Final/REM_Structs.h
+REM_RecordID.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordID.h
+REM_RecordHandle.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordHandle.h
+
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordFileManager.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+STORM_StorageManager.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_StorageManager.h
+REM_Structs.h
+/home/koloumpras/Development/Database Implementation/Final/REM_Structs.h
+REM_RecordFileHandle.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordFileHandle.h
+cstdio
+-
+
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordFileScan.cpp
+REM_RecordFileScan.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordFileScan.h
+
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordFileScan.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+REM_Structs.h
+/home/koloumpras/Development/Database Implementation/Final/REM_Structs.h
+REM_RecordFileHandle.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordFileHandle.h
+REM_RecordHandle.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordHandle.h
+
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordHandle.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+REM_RecordID.h
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordID.h
+STORM.h
+/home/koloumpras/Development/Database Implementation/Final/STORM.h
+
+/home/koloumpras/Development/Database Implementation/Final/REM_RecordID.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+
+/home/koloumpras/Development/Database Implementation/Final/REM_Structs.h
+components.h
+/home/koloumpras/Development/Database Implementation/Final/components.h
+
+/home/koloumpras/Development/Database Implementation/Final/SSQLM.h
+SSQLM_DDL.h
+/home/koloumpras/Development/Database Implementation/Final/SSQLM_DDL.h
+SSQLM_DML.h
+/home/koloumpras/Development/Database Implementation/Final/SSQLM_DML.h
+
+/home/koloumpras/Development/Database Implementation/Final/SSQLM_DDL.cpp
+SSQLM_DDL.h
+/home/koloumpras/Development/Database Implementation/Final/SSQLM_DDL.h
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+sstream
+-
+
+/home/koloumpras/Development/Database Implementation/Final/SSQLM_DDL.h
+REM.h
+/home/koloumpras/Development/Database Implementation/Final/REM.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+
+/home/koloumpras/Development/Database Implementation/Final/SSQLM_DML.cpp
+SSQLM_DML.h
+/home/koloumpras/Development/Database Implementation/Final/SSQLM_DML.h
+SSQLM_DDL.h
+/home/koloumpras/Development/Database Implementation/Final/SSQLM_DDL.h
+string
+-
+iostream
+-
+cstring
+-
+
+/home/koloumpras/Development/Database Implementation/Final/SSQLM_DML.h
+REM.h
+/home/koloumpras/Development/Database Implementation/Final/REM.h
+SYSM.h
+/home/koloumpras/Development/Database Implementation/Final/SYSM.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+
+/home/koloumpras/Development/Database Implementation/Final/STORM.h
+STORM_StorageManager.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_StorageManager.h
+STORM_FileHandle.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_FileHandle.h
+STORM_PageHandle.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_PageHandle.h
+UTILS_misc.h
+/home/koloumpras/Development/Database Implementation/Final/UTILS_misc.h
+
+/home/koloumpras/Development/Database Implementation/Final/STORM_BufferManager.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+STORM_Parameters.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_Parameters.h
+STORM_Frame.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_Frame.h
+UTILS_hashmap.h
+/home/koloumpras/Development/Database Implementation/Final/UTILS_hashmap.h
+unistd.h
+-
+
+/home/koloumpras/Development/Database Implementation/Final/STORM_FileHandle.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+STORM_Parameters.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_Parameters.h
+STORM_Frame.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_Frame.h
+STORM_PageHandle.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_PageHandle.h
+STORM_BufferManager.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_BufferManager.h
+string.h
+-
+
+/home/koloumpras/Development/Database Implementation/Final/STORM_Frame.h
+STORM_Parameters.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_Parameters.h
+
+/home/koloumpras/Development/Database Implementation/Final/STORM_PageHandle.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+STORM_Frame.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_Frame.h
+
+/home/koloumpras/Development/Database Implementation/Final/STORM_Parameters.h
+
+/home/koloumpras/Development/Database Implementation/Final/STORM_StorageManager.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+STORM_FileHandle.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_FileHandle.h
+STORM_BufferManager.h
+/home/koloumpras/Development/Database Implementation/Final/STORM_BufferManager.h
+
+/home/koloumpras/Development/Database Implementation/Final/SYSM.h
+SYSM_DBM.h
+/home/koloumpras/Development/Database Implementation/Final/SYSM_DBM.h
+
+/home/koloumpras/Development/Database Implementation/Final/SYSM_DBM.cpp
+SYSM_DBM.h
+/home/koloumpras/Development/Database Implementation/Final/SYSM_DBM.h
+
+/home/koloumpras/Development/Database Implementation/Final/SYSM_DBM.h
+fstream
+-
+sys/types.h
+-
+sys/io.h
+-
+sys/dir.h
+-
+REM.h
+/home/koloumpras/Development/Database Implementation/Final/REM.h
+retcodes.h
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+
+/home/koloumpras/Development/Database Implementation/Final/UTILS_hashmap.h
+UTILS_hashtable.h
+/home/koloumpras/Development/Database Implementation/Final/UTILS_hashtable.h
+
+/home/koloumpras/Development/Database Implementation/Final/UTILS_hashtable.h
+functional
+-
+utility
+-
+algorithm
+-
+vector
+-
+list
+-
+string
+-
+
+/home/koloumpras/Development/Database Implementation/Final/UTILS_misc.h
+
+/home/koloumpras/Development/Database Implementation/Final/components.h
+
+/home/koloumpras/Development/Database Implementation/Final/main.cpp
+STORM.h
+/home/koloumpras/Development/Database Implementation/Final/STORM.h
+REM.h
+/home/koloumpras/Development/Database Implementation/Final/REM.h
+SYSM.h
+/home/koloumpras/Development/Database Implementation/Final/SYSM.h
+SSQLM.h
+/home/koloumpras/Development/Database Implementation/Final/SSQLM.h
+iostream
+-
+stdio.h
+-
+
+/home/koloumpras/Development/Database Implementation/Final/retcodes.h
+
